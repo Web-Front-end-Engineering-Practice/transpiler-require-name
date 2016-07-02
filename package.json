@@ -1,0 +1,25 @@
+{
+  "name": "transpiler-require-name",
+  "version": "0.1.0",
+  "description": "require name transpiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Web-Front-end-Engineering-Practice/transpiler-require-name.git"
+  },
+  "keywords": [
+    "transpliler",
+    "require"
+  ],
+  "author": "yanni4night@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Web-Front-end-Engineering-Practice/transpiler-require-name/issues"
+  },
+  "dependencies": {
+    "babylon": "^6.8.2"
+  }
+}
